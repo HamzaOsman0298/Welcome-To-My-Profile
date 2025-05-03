@@ -24,7 +24,7 @@
 
 # Find below different analysis projects I have worked on during my Data Technician Skills Bootcamp:
 
-## [Excel Analysis projects](https://HamzaOsman0298.github.io/Excel-analysis/)
+## [Excel Analysis projects](https://github.com/HamzaOsman0298/Excel-)
 
 ## [Tableau Analysis projects](https://HamzaOsman0298.github.io/Tableau-Analysis/)
 
