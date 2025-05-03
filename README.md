@@ -4,7 +4,7 @@
 
 ### My Portfolio
 
-* 🌍  I'm based in County Durham
+* 🌍  I'm based in Birmingham 
 * ✉️  You can contact me on my [LinkedIn profile](https://www.linkedin.com/in/hamza-osman-611968137/)
 * 🧠  I'm learning Data Analysis skills, including Excel, Tableau, Power BI, SQL, Microsoft Azure and Python
 
