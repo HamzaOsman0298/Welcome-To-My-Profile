@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/user-attachments/assets/950cba57-54b0-4b40-a5bb-74c60f592d74" width="300" /></p>
+<p align="center"> <img src="https://github.com/HamzaOsman0298/Welcome-To-My-Profile/blob/main/new%20logo.png" width="300" /></p>
 
 # Hamza Osman 
 
